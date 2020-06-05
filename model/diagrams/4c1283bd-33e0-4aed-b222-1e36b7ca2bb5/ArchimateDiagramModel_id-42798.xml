@@ -279,9 +279,9 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-43070"
         font="1|Arial|10.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Arial"
-        fontColor="#000000"
+        fontColor="#ffff00"
         lineColor="#000000"
-        fillColor="#ccccff">
+        fillColor="#ff0000">
       <bounds
           x="150"
           y="353"
